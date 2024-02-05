@@ -4,5 +4,14 @@
   "artist": "yukiusagi",
   "author": "yukiusagi",
   "cover": "https://nhentai.to/g/266661/1",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1707126363",
+      "groups": {
+        "yuki-ro": "https://nhentai.to/g/266661/"
+      }
+    }
+  }
 }
